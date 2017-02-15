@@ -1,1 +1,3 @@
 # Public-Binaries
+>Arx-Ludos is still in Alpha expect there to be bugs...
+>The calculator should work fine although this is a simple application
