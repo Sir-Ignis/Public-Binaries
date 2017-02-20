@@ -8,6 +8,7 @@
 
 **Known bugs (in the current version):**
 >_black areas around the side of the map, caused by the ASCII characters not being updated, TO BE FIXED._
+
 >_flickering of the console window on computers with a low clock rate_
 
 **Notice:**
