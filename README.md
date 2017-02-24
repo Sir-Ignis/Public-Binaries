@@ -1,6 +1,8 @@
 # Public-Binaries
 
-**ARX LUDOS**
+![alt tag](https://github.com/Sir-Ignis/Dungeon_Game/blob/master/Shield.png)
+**Count von Binary Productions Presents: Arx-Ludos**
+![alt tag](https://github.com/Sir-Ignis/Dungeon_Game/blob/master/Shield.png)
 
 **Latest (accessible) version**: _v0.5.1_ (**alpha**)
 
@@ -13,3 +15,4 @@
 >Arx-Ludos is still in Alpha expect there to be bugs...
 
 >The calculator should work fine although this is a simple application
+</p>
