@@ -4,7 +4,7 @@
 **Count von Binary Productions Presents: Arx-Ludos**
 ![alt tag](https://github.com/Sir-Ignis/Dungeon_Game/blob/master/Shield.png)
 
-**Latest (accessible) version**: _v0.5.3_ (**alpha**)
+**Latest (accessible) version**: _v0.5.5_ (**alpha**)
 
 **Last tested version (on Windows 7)**: _v0.5.0_
 
