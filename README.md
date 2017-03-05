@@ -18,6 +18,8 @@
   * Once you have extracted the files you must right click on the .exe:
    select properties => "is executable" (tick it) => open with cmd
   * Enjoy!
+  
+  ![alt text] (https://github.com/Sir-Ignis/Arx-Ludos-Resources/blob/master/8BitSkeletonByMeUsingAseprite.gif)
 
 **Notices:**
   * Arx-Ludos is still in Alpha expect there to be bugs...
