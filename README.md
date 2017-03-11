@@ -4,7 +4,22 @@
 **Count von Binary Productions Presents: Arx-Ludos**
 ![alt tag](https://github.com/Sir-Ignis/Dungeon_Game/blob/master/Shield.png)
 
-**Latest (accessible) version**: _v0.5.5_ (**alpha**)
+**Program Information for Arx-Ludos**
+
+_Technical Information_
+
+Arx-Ludos was written in C# using the Monodevelop IDE.
+
+The Mono Debugger was used for debugging
+
+_Non-technical Information_
+
+Inspired by NetHack, Arx-Ludos is a rogue-like
+dungeon crawler game.
+
+
+
+**Latest (accessible) version**: _v0.5.6u.3_ (**alpha**)
 
 **Last tested version (on Windows 7)**: _v0.5.0_
 
